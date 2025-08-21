@@ -1,5 +1,5 @@
 input_group {
-    "Indicadores",
+    "Parametros",
     MIN_VOTES   = input(6,    "Min votes",          input.integer,   1,  10, 1),
     MIN_CANDLES = input(15,   "Min candles",        input.integer,   1,  10, 1),
     BB_PER      = input(26,   "BB period",          input.integer,   5, 100, 1),
